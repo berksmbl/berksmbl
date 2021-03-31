@@ -1,5 +1,5 @@
 # Hello there 👋
-<img align='right' src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="230">
+<img align='right' src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="230">
 <p><em>Guardian at <a href="https://dlive.tv"> <img src="https://dlive.tv/img/logo-darkmode.50133ca0.svg" width="60"></a> 
 </em></p>
 
