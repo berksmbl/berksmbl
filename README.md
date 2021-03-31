@@ -1,6 +1,6 @@
 <h2>Hello Word! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://cdn.berksmbl.com/file/berksmbl/icon.png" width="230">
-<p><em>Guardian at <a href="https://dlive.tv">DLive</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Guardian at <a href="https://dlive.tv">DLive</a><img src="https://dlive.tv/favicon.ico" width="20"> 
 </em></p>
 
 [![Twitter](https://img.shields.io/twitter/follow/berksmbl?label=BerkSMBL)](https://twitter.com/BerkSMBL)
