@@ -3,7 +3,7 @@
 <p><em>Guardian at <a href="https://dlive.tv">DLive</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/berksmbl?label=Follow)](https://twitter.com/intent/follow?screen_name=berksmbl)
+[![Twitter: BerkSMBL](https://img.shields.io/twitter/follow/berksmbl?label=BerkSMBL)](https://twitter.com/BerkSMBL)
 [![Linkedin: BerkSMBL](https://img.shields.io/badge/-BerkSMBL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berksmbl/)](https://www.linkedin.com/in/berksmbl/)
 ![GitHub followers](https://img.shields.io/github/followers/berksmbl?label=BerkSMBL&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://berksmbl.com/)](https://berksmbl.com/)
