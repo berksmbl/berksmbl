@@ -17,7 +17,6 @@ const anmol = {
     code: ["Vue", "PHP", "Python", "Laravel""],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
-        mobileApp: ["Android App"],
         frontEnd: {
             js: ["Vue", "Nuxt"],
             css: ["bootstrap", "materialize", "vuetify"]
@@ -31,7 +30,7 @@ const anmol = {
         databases: ["MySql", "MarinaDB", "sqlite", "mongo"],
         misc: ["php", "Python", "Firebase", "Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Comptetive Programming using Larevel",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
