@@ -26,7 +26,7 @@ const anmol = {
             python: ["flask"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["MySql", "MarinaDB", "sqlite", "mongo"],
+        databases: ["MySql", "MarinaDB", "RethinkDB", "sqlite", "mongo"],
         misc: ["PHP", "Python", "Socket.IO"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
