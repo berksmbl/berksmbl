@@ -5,7 +5,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/berksmbl?label=BerkSMBL)](https://twitter.com/BerkSMBL)
 ![GitHub](https://img.shields.io/github/followers/berksmbl?label=BerkSMBL&style=social)
-![Discord](https://img.shields.io/discord/463209936760078356?label=Discord&style=social)
+![Discord](https://img.shields.io/discord/463209936760078356?label=Discord&logo=discord&style=social)
 [![Linkedin](https://img.shields.io/badge/-BerkSMBL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berksmbl/)](https://www.linkedin.com/in/berksmbl/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://berksmbl.com/)](https://berksmbl.com/)
 
