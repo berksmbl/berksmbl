@@ -20,18 +20,19 @@ const anmol = {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            css: ["bootstrap", "materialize", "vuetify"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
+            js: ["node", "express"],
+            php: ["laravel"],
             python: ["flask"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "MarinaDB", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "php", "Python"]
+        databases: ["MySql", "MarinaDB", "sqlite", "mongo"],
+        misc: ["php", "Python", "Firebase", "Socket.IO"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Comptetive Programming using C++",
+    currentFocus: "Comptetive Programming using Larevel",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
