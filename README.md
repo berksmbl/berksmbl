@@ -1,5 +1,5 @@
 # Hello there 👋
-<img align='right' src="https://giphy.com/embed/26n7b7PjSOZJwVCmY" width="230">
+<img align='right' src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="230">
 <p><em>Guardian at <a href="https://dlive.tv"> <img src="https://dlive.tv/img/logo-darkmode.50133ca0.svg" width="60"></a> 
 </em></p>
 
