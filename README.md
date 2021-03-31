@@ -1,4 +1,4 @@
-<h2>Hello Word! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+# Hello there 👋
 <img align='right' src="https://cdn.berksmbl.com/file/berksmbl/icon.png" width="230">
 <p><em>Guardian at <a href="https://dlive.tv"> <img src="https://dlive.tv/img/logo-darkmode.50133ca0.svg" width="60"></a> 
 </em></p>
