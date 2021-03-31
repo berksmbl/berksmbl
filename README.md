@@ -28,7 +28,7 @@ const anmol = {
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["MySql", "MarinaDB", "sqlite", "mongo"],
-        misc: ["php", "Python", "Firebase", "Socket.IO"]
+        misc: ["PHP", "Python", "Firebase", "Socket.IO"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Comptetive Programming using Larevel",
