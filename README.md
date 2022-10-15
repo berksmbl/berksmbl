@@ -1,5 +1,5 @@
 # Hello there 👋
-<img align='right' src="https://cdn.berksmbl.com/file/berksmbl/daftpunktocat-guy.gif" width="230">
+<img align='right' src="https://cdn.berksmbl.com/daftpunktocat-guy.gif" width="230">
 <p><em>Guardian at <a href="https://dlive.tv"> <img src="https://dlive.tv/favicon.ico" width="20">DLive</a></em></p>
 
 [![Twitter](https://img.shields.io/twitter/follow/berksmbl?label=BerkSMBL)](https://twitter.com/BerkSMBL)
